@@ -21,4 +21,4 @@ EndOfLine:
   Enabled: false
 
 Style/EmptyLinesAroundClassBody:
-  Enabled: true
+  Enabled: false
