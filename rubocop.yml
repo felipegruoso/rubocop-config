@@ -1,0 +1,24 @@
+AllCops:
+  Rails:
+    Enabled: true
+    
+Style/Encoding:
+  Enabled: false
+
+Style/AsciiComments:
+  Enabled: false
+
+Style/FrozenStringLiteralComment:
+  Enabled: false
+
+Style/Documentation:
+  Enabled: false
+
+Metrics/LineLength:
+  Max: 160
+
+EndOfLine:
+  Enabled: false
+
+Style/EmptyLinesAroundClassBody:
+  Enabled: false
